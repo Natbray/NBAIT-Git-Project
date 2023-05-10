@@ -2,4 +2,4 @@ var1 = 1
 if var1 == 1:
     print('hello world')
 else:
-    print('hallo earth')
+    print('hello earth')
